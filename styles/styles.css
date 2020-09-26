@@ -1,0 +1,9 @@
+img {
+    max-height: 100vh;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
